@@ -60,13 +60,13 @@
 
             <div class="section-header">
                 <h2><strong>Contact Us</strong></h2>
-                <p>School of Computer Science and I.T, Davv, Indore.</p>
+                <p>St.Peter’s Institute of Higher Education and Research</p>
             </div>
 
         </div>
 
         <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.035781097398!2d75.87103241476291!3d22.689711885122687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fce62a06c98b%3A0x9df2fc5c91f45eb5!2sSCSIT%20-%20School%20of%20Computer%20Science%20%26%20Information%20Technology%2C%20DAVV!5e0!3m2!1sen!2sin!4v1648416719389!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.8186701187597!2d80.11626901542857!3d13.110671015357314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526267d82f23ef%3A0xe1971dd1b2483c0c!2sSt.Peter&#39;s%20College%20of%20Engineering%20and%20Technology!5e0!3m2!1sen!2sin!4v1673933255207!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
         </div><!-- End Google Maps -->
 
         <div class="container">
@@ -83,7 +83,7 @@
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
                                 <h4>Location:</h4>
-                                <p>SCSIT, DAVV, Takshashila campus, Khandwa Road, Indore.</p>
+                                <p>Avadi, Chennai-600 054, Tamil Nadu.</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -91,7 +91,7 @@
                             <i class="bi bi-envelope flex-shrink-0"></i>
                             <div>
                                 <h4>Email:</h4>
-                                <p>scsdavvindore@gmail.com</p>
+                                <p>admissions@spiher.ac.in</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -99,7 +99,7 @@
                             <i class="bi bi-phone flex-shrink-0"></i>
                             <div>
                                 <h4>Call:</h4>
-                                <p>XXXXXXXX09</p>
+                                <p>+91 44 2655 5448/3720/3746</p>
                             </div>
                         </div><!-- End Info Item -->
 
